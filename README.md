@@ -1,9 +1,9 @@
 # 👩🏻‍💻 Jade Bernardes Lourenço
 
-**`Analista de Sistemas em Formação (3/5)`**
+**`Analista de Sistemas em Formação (4/5)`**
 
-Sou estudante de Análise e Desenvolvimento de Sistemas com foco em transição para a área de tecnologia. Atualmente, atuo na Tahto, onde desenvolvo um perfil analítico no CRV VIP Suporte Ao Receptivo Novo Fibra, resolvendo erros sistêmicos e atuando na interface com o suporte técnico.
- Minha trajetória é marcada pela adaptabilidade e pelo foco no cliente. Iniciei minha carreira em funções que exigiam alta agilidade, empatia e resiliência sob pressão, competências que hoje aplico na análise crítica de sistemas e processos.
+Sou estudante de Análise e Desenvolvimento de Sistemas com foco em transição para a área de tecnologia. Atualmente desenvolvo um perfil analítico resolvendo erros sistêmicos e atuando na interface com o suporte técnico.
+ Minha trajetória é marcada pela adaptabilidade e pelo foco no cliente. Iniciei minha carreira em funções que exigiam alta agilidade, empatia e resiliência, competências que hoje aplico na análise crítica de sistemas e processos.
  O que estou construindo hoje:
 - Graduação em ADS e estudos em linguagens como C e Python.
 - Experiência prática com suporte técnico, abertura de chamados e diagnóstico de falhas sistêmicas.
